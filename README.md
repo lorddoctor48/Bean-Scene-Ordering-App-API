@@ -50,7 +50,7 @@ This API is designed for use exclusively by Bean Scene staff through the officia
 
 ### Clone the repository
 - Open up  Windows Powershall
-- git clone https://github.com/Lloyd-05/Project-Assessment-Bean-Scene-Ordering-App-API
+- git clone https://github.com/lorddoctor48/Project-Assessment-Bean-Scene-Ordering-App-API
 - cd Bean-Scene-Ordering-App-API 
 ### Connect
 - Log into MongoDB Atlas
